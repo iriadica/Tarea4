@@ -25,7 +25,7 @@ public class Main {
         }
     }
     /**
-     * 
+     * Método que realiza la operativa de ingresar o retirar cantidad
      * @param cuenta1
      * @param ingresar
      * @param cantidad
