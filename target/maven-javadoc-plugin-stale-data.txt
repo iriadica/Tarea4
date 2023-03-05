@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Proyectos/Cuentas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Proyectos/Cuentas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Cuentas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Cuentas 1.0-SNAPSHOT API'
+com.mycompany.cuentas
+'C:/Proyectos/Cuentas/src/main/java/com/mycompany/cuentas/CCuenta.java'
+'C:/Proyectos/Cuentas/src/main/java/com/mycompany/cuentas/Main.java'
+C:\Proyectos\Cuentas\src\main\java = 1677870256947
+C:\Proyectos\Cuentas\target\site\apidocs\allclasses-index.html = 1677940547408
+C:\Proyectos\Cuentas\target\site\apidocs\allpackages-index.html = 1677940547411
+C:\Proyectos\Cuentas\target\site\apidocs\copy.svg = 1677940547448
+C:\Proyectos\Cuentas\target\site\apidocs\element-list = 1677940547343
+C:\Proyectos\Cuentas\target\site\apidocs\help-doc.html = 1677940547438
+C:\Proyectos\Cuentas\target\site\apidocs\index-all.html = 1677940547431
+C:\Proyectos\Cuentas\target\site\apidocs\index.html = 1677940547435
+C:\Proyectos\Cuentas\target\site\apidocs\jquery-ui.overrides.css = 1677940547461
+C:\Proyectos\Cuentas\target\site\apidocs\member-search-index.js = 1677940547414
+C:\Proyectos\Cuentas\target\site\apidocs\module-search-index.js = 1677940547411
+C:\Proyectos\Cuentas\target\site\apidocs\overview-tree.html = 1677940547392
+C:\Proyectos\Cuentas\target\site\apidocs\package-search-index.js = 1677940547413
+C:\Proyectos\Cuentas\target\site\apidocs\script.js = 1677940547447
+C:\Proyectos\Cuentas\target\site\apidocs\search-page.js = 1677940547452
+C:\Proyectos\Cuentas\target\site\apidocs\search.html = 1677940547434
+C:\Proyectos\Cuentas\target\site\apidocs\search.js = 1677940547451
+C:\Proyectos\Cuentas\target\site\apidocs\stylesheet.css = 1677940547445
+C:\Proyectos\Cuentas\target\site\apidocs\tag-search-index.js = 1677940547414
+C:\Proyectos\Cuentas\target\site\apidocs\type-search-index.js = 1677940547414
